@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Sports App</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_account">Account</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_my_sports">My Sports</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_account">Account</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_my_sports">My Sports</string>
+
+    <string name="detail_overview_title">Overview</string>
+    <string name="detail_rules_title">Key Rules &amp; Gameplay</string>
+    <string name="detail_leagues_title">Popular Leagues &amp; Competitions</string>
+    <string name="detail_teams_title">Top Teams &amp; Athletes</string>
+
+    <string name="settings_notifications_title">Notifications &amp; Preferences</string>
+    <string name="settings_live_notifications">Live Match Notifications</string>
+    <string name="settings_news_alerts">Breaking News Alerts</string>
+    <string name="settings_about_title">About Application</string>
+    <string name="settings_app_version">My Sports App v1.0</string>
+    <string name="settings_about_desc">Built with Jetpack Navigation and Material Design Components.</string>
+</resources>
